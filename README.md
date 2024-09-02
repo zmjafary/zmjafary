@@ -37,4 +37,5 @@ I'm a **Software Engineer** with over **7 years of experience** in developing an
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zmjafary) [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=Google-Chrome&logoColor=white)](https://zmjafary.com) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:zillemuhammad.jafary@gmail.com)
 
+---
 Thanks for stopping by! 😊
