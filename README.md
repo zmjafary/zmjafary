@@ -1,6 +1,6 @@
 
 # Hi, I'm Zille Muhammad Jafary.
-### *(But if that’s a mouthful, just call me Jeffery!)*
+### *(But if that’s a mouthful, just call me Jerry!)*
 
 I'm a **Software Engineer** with over **7 years of experience** in developing and designing advanced web applications. I specialize in **Laravel, PHP, Node.js, React, Vue, and AWS**, delivering cutting-edge **E-commerce** and **AI-driven solutions** for platforms like **Shopify** and **WordPress**.
 
